@@ -104,7 +104,7 @@ public class SunsetFragment extends android.support.v4.app.Fragment {
                     .after(nightSkyAnimator);
         }
         animatorSet.start();
-        
+
         mSunIsUp = !mSunIsUp;
     }
 }
